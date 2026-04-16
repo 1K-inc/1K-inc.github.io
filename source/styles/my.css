@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Magistral&display=swap');
 
 body{
-    font-family: Michroma, serif;
+    font-family: Magistral, serif;
     background: linear-gradient(90deg, rgba(177, 142, 204, 1) 6%, rgba(31, 99, 209, 1) 99%);
 }
 p{
